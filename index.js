@@ -29,6 +29,7 @@ testList.forEach(book => {
   row.appendChild(titleCell)
   row.appendChild(authorCell)
   row.appendChild(isbnCell)
+  row.appendChild(description)
 
   tableBody.appendChild(row)
 })
