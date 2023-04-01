@@ -1,4 +1,3 @@
-
 import { createClient } from "https://cdn.skypack.dev/@supabase/supabase-js@2.10.0"
 import * as SupabaseSupabaseJs from "https://cdn.skypack.dev/@supabase/supabase-js@2.10.0";
 
